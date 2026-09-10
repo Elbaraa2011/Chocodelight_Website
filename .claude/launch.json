@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "chocodelight",
+      "runtimeExecutable": "C:\\Program Files\\IIS Express\\iisexpress.exe",
+      "runtimeArgs": [
+        "/path:D:\\Projects\\Chocodelight_Website\\Chocodelight_Website",
+        "/port:5228"
+      ],
+      "port": 5228
+    }
+  ]
+}

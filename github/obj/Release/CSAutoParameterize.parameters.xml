@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Chocodelight-Web.config Connection String" description="Chocodelight Connection String used in web.config by the application to access the database." defaultValue="Server=PROD_SERVER;Database=Chocodelight;User Id=PROD_USER;Password=PROD_PASSWORD;Encrypt=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Projects\\Chocodelight_Website\\Chocodelight_Website\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Chocodelight']/@connectionString" />
+  </parameter>
+</parameters>
